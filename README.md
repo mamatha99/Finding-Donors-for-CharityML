@@ -31,3 +31,4 @@ visuals.py: This Python script provides supplementary visualizations for the pro
 RUN
 
 In the Terminal or Command Prompt, navigate to the folder on your machine where you've put the project files, and then use the command "jupyter notebook finding_donors.ipynb" to open up a browser window or tab to work with your notebook. Alternatively, you can use the command "jupyter notebook or ipython notebook" and navigate to the notebook file in the browser window that opens. 
+Its an Udacity project.
